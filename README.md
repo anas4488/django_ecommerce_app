@@ -1,3 +1,3 @@
 # django_ecommerce_app
 
-> This is a django application for a Ecommerce w ebsite.
+> This is a django application for a Ecommerce website.
